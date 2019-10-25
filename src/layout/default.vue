@@ -1,5 +1,5 @@
 <template>
-  <div class="s1">
+  <div class="layout-default">
     <el-container>
       <el-header>
           <Myindex></Myindex>
