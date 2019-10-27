@@ -12,14 +12,14 @@
 </template>
 
 <script>
-import Mygeo from './geo.vue';
+import Mygeo from './geo.vue'
 import Mynav from './nav.vue'
 export default {
-    components:{
-        Mygeo,
-        Mynav
-    }
-};
+  components: {
+    Mygeo,
+    Mynav
+  }
+}
 </script>
 <style lang="scss">
     @import '@/assets/css/public/header/topbar.scss'

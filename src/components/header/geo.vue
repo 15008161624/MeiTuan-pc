@@ -1,7 +1,7 @@
 <template>
     <div class="m-geo">
         <div class="position">
-            <i class="el-icon-location"></i> 
+            <i class="el-icon-location"></i>
              成都
              <router-link class="changeCity" :to="{name: 'changeCity'}">切换城市</router-link>
 
@@ -20,6 +20,6 @@
 
 <script>
 export default {
-    
+
 }
 </script>

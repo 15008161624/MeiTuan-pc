@@ -90,23 +90,32 @@
                         <dt>手机应用</dt>
                         <dd>
                             <!-- <a href="#"> -->
-                                <img class="appicon" src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png" title="美团app" alt="美团app">
+                                <img class="appicon" src="https://s0.meituan.net/bs/fe-web-meituan/2d53095/img/appicons/meituan.png" title="美团app" alt="美团app">
                             <!-- </a> -->
                         </dd>
                         <dd>
                             <!-- <a href="#"> -->
-                                <img class="appicon" src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png" title="美团app" alt="美团app">
+                                <img class="appicon" src="https://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/waimai.png" title="外卖app" alt="外卖app">
                             <!-- </a> -->
                         </dd>
                         <dd>
                             <!-- <a href="#"> -->
-                                <img class="appicon" src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png" title="美团app" alt="美团app">
+                                <img class="appicon" src="https://s0.meituan.net/bs/fe-web-meituan/404d350/img/appicons/zhenguo.png" title="榛果app" alt="榛果app">
+                            <!-- </a> -->
+                        </dd>
+                        <dd>
+                            <!-- <a href="#"> -->
+                                <img class="appicon" src="https://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/dianping.png" title="点评app" alt="点评app">
+                            <!-- </a> -->
+                        </dd>
+                        <dd>
+                            <!-- <a href="#"> -->
+                                <img class="appicon" src="https://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/maoyan.png" title="猫眼app" alt="猫眼app">
                             <!-- </a> -->
                         </dd>
                     </dl>
                 </div>
-               
-               
+
             </li>
         </ul>
     </div>
@@ -116,4 +125,3 @@ export default {
 
 }
 </script>
-

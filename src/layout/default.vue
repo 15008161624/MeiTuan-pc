@@ -1,22 +1,26 @@
 <template>
   <div class="layout-default">
     <el-container>
-      <el-header>
+      <el-header height="">
           <Myindex></Myindex>
       </el-header>
-      <el-main>Main</el-main>
-      <el-footer>Footer</el-footer>
+      <el-main>
+            <router-view></router-view>
+        </el-main>
+      <el-footer height=""><myFooter /></el-footer>
     </el-container>
   </div>
 </template>
 
 <script>
 import Myindex from '@/components/header/index.vue'
+import myFooter from '@/components/footer/index.vue'
 export default {
-    components:{
-         Myindex,
-    }
-};
+  components: {
+    Myindex,
+    myFooter
+  }
+}
 </script>
 <style lang="scss">
     @import '@/assets/css/public/layout.scss'

@@ -10,12 +10,12 @@
 </template>
 
 <script>
-import searchBar from "./searchBar.vue";
-import topBar from "./topBar.vue";
+import searchBar from './searchBar.vue'
+import topBar from './topBar.vue'
 export default {
   components: {
     searchBar,
     topBar
   }
-};
+}
 </script>
